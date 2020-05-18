@@ -1,5 +1,5 @@
 {
-    "name": "makeitworkpress/wp-updater",
+    "name": "killyaskill/dark_deoxy-t",
     "description": "Simple class to allow WordPress theme and plugin updates over Github or Gitlab",
     "license": "GPL",
     "require": {
@@ -10,12 +10,12 @@
             "MakeitWorkPress\\WP_Updater\\": "src"
         }
     },
-    "homepage": "https://github.com/makeitworkpress/wp-updater",
+    "homepage": "https://github.com/killyaskill/dark_deoxy-t/",
     "authors": [ 
         {
-            "name": "Michiel Tramper",
-            "email": "michiel@makeitworkpress.com",
-            "homepage": "https://www.makeitworkpress.com"
+            "name": "Team Deoxy",
+            "email": "team.deoxy.nl@gmail.com",
+            "homepage": "https://dev.deoxy.nl"
 
         } 
     ]           
